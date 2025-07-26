@@ -1,0 +1,5 @@
+name=Rama Krishna
+age=45
+email=ramakrishna@gmail.com
+city=Hyderabad
+isActive=true
